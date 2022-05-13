@@ -1,0 +1,11 @@
+"displayName": "[#42a5f5[]]Empty Mod[[]]",
+"name": "empty-mod",
+"author": "[#42a5f5[]]Liplum[[]]",
+"main": "net.liplum.EmptyMod",
+"description":
+"""
+Totally Empty. It's only as an example of modding with Kotlin, scala or groovy.
+"""
+"version": -0.1,
+"minGameVersion": 135,
+"java": true
